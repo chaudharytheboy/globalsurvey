@@ -308,7 +308,7 @@ function last(element){
 									 
 									 
 									 </a> 
-									 <div class="reviewitem" style="color:#164d96;"><img id="star_img_1" src="<?php echo $row['reviews'];?>" height="18" width="71" onclick="ViewOffer_1();"> <a id="offer_review_anchor_1" onclick="ViewOffer_1();">(612)</a></div> <br> 
+									 <div class="reviewitem" style="color:#164d96;"><img id="star_img_1" src="images/5-star.png" height="18" width="71" onclick="ViewOffer_1();"> <a id="offer_review_anchor_1" onclick="ViewOffer_1();">(612)</a></div> <br> 
 									 
 									 <?php
                                           }
